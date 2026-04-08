@@ -1,6 +1,6 @@
 const config = {
-  baseurl: 'https://aniwatchtv.to',
-  baseurl2: 'https://aniwatchtv.to',
+  baseurl: 'https://kaido.to',
+  baseurl2: 'https://kaido.to',
   origin: '*',
   port: 5000,
 
